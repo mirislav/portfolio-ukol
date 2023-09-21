@@ -1,0 +1,42 @@
+.text1 {
+    font-size: 1.3rem;
+    text-align: left;
+}
+
+.bentley {
+    height: 30%;
+    width: 15%;
+}
+
+.porche{
+    height: 50%;
+    width: 15%;
+}
+
+.benzo{
+    height: 50%;
+    width: 15%;
+}
+
+.csgo{
+    height: 50%;
+    width: 30%;
+}
+
+.gta {
+    height: 50%;
+    width: 30%;
+}
+
+.fivem {
+    height: 50%;
+    width: 27%;
+}
+
+.container {
+    width: 400px;    
+}
+
+.footer {
+    text-align: center;
+}
